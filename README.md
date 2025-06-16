@@ -13,9 +13,7 @@ A responsive and animated Netflix-inspired web application built using modern fr
 - 🔗 Reusable components for sections like Navbar, Footer, etc.
 - 📽️ Optional trailer popup / lightbox (if implemented)
 
-## 🚀 Demo
 
-👉 [Live Demo](https://your-netflix-clone-url.com) — *(replace with your link)*
 
 ## 🛠️ Tech Stack
 
