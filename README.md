@@ -71,9 +71,10 @@ GSAP Documentation
 
 Unsplash / TMDB for placeholder images
 
-📬 Contact
+## 📬 Contact  
 Made with ❤️ by **Ritik Thakur**  
- [LinkedIn](https://linkedin.com/ritikkumar11114444) | [GitHub](https://github.com/ritik-kumar123)
+[LinkedIn](https://linkedin.com/ritikkumar11114444) | [GitHub](https://github.com/ritik-kumar123)
+
 
 
 
