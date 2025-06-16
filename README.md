@@ -47,11 +47,11 @@ Netflix-Clone/
 ## 💡 Installation
 
 To run the project locally:
-
-```bash
-git clone https://github.com/ritik-kumar123/netflix-_clone.git
-cd netflix-clone
-open index.html
+1. Clone or download the project:
+   ```sh
+   git clone https://github.com/ritik-kumar123/chess-clone.git
+   
+2. Open the `index.html` file in your browser.
 
 No backend or API is used in this version.
 
@@ -73,7 +73,7 @@ Unsplash / TMDB for placeholder images
 
 ## 📬 Contact  
 Made with ❤️ by **Ritik Thakur**  
-[LinkedIn](https://linkedin.com/ritikkumar11114444) | [GitHub](https://github.com/ritik-kumar123)
+[LinkedIn](https://linkedin.com/in/ritik-kumar123) | [GitHub](https://github.com/ritik-kumar123)
 
 
 
