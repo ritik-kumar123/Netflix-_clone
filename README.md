@@ -49,7 +49,7 @@ Netflix-Clone/
 To run the project locally:
 1. Clone or download the project:
    ```sh
-   git clone https://github.com/ritik-kumar123/chess-clone.git
+   git clone https://github.com/ritik-kumar123/Netflix-_clone.git
    
 2. Open the `index.html` file in your browser.
 
