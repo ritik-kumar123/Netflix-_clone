@@ -1,4 +1,3 @@
-# Netflix-_clone
 # 🎬 Netflix Clone
 
 A responsive and animated Netflix-inspired web application built using modern front-end technologies. This clone showcases scroll-based animations, interactive UI components, and dynamic content to replicate the Netflix user experience.
